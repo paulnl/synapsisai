@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://synapsisai.nl/sitemap.xml
+
+# Crawl rate
+Crawl-delay: 10
+
+# Disallow admin or private areas (none currently)
+# Disallow: /admin/
+# Disallow: /private/
